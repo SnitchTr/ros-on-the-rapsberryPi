@@ -4,8 +4,10 @@
 
 2. log in the pi username:pi pasword:rosbots!
 
-3. set up wifi with sudo raspi-config
-
+3. set up wifi with:
+```
+$ sudo raspi-config
+```
 4. run the following comands on terminal:
 ```
 $ update_rosbots_git_repos
