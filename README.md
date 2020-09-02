@@ -4,7 +4,7 @@
 
 2. log in the pi username:pi pasword:rosbots!
 
-3. set up wifi with:
+3. set up wifi and enable ssh with:
 ```
 $ sudo raspi-config
 ```
