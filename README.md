@@ -15,4 +15,5 @@ cd ..
 catkin_make
 catkin_make
 catkin_make(it will crash due to lack of memory so you'll have to run it multiple times)
-catkin_make install(error 1 istall failed)
+catkin_make install
+pip install pyserial
