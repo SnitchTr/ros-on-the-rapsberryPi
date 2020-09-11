@@ -1,18 +1,11 @@
 cd
 sudo apt-get update
-y
-sudo apt-get upgrade
-y
-sudo apt-get install python3-pip
-y
+sudo apt-get -y upgrade
+sudo apt-get -y install python3-pip
 pip3 install empy
-y
 sudo pip3 install -U catkin_pkg
-y
 pip3 install pyyaml
-y
 pip3 install pyserial
-y
 mkdir -p ~/catkin_ws/src
 cd ~/catkin_ws/
 catkin_make -DPYTHON_EXECUTABLE=/usr/bin/python3
