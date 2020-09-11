@@ -16,6 +16,8 @@ $ initialize_rosbots_image
 ```
 download catkin python 3 libraries
 ```
+$ sudo apt-get update
+$ sudo apt-get upgrade
 $ sudo apt-get install python3-pip
 $ pip install empy
 $ sudo pip install -U catkin_pkg
