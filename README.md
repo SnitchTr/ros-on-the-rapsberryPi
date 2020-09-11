@@ -19,8 +19,8 @@ download catkin python 3 libraries
 $ sudo apt-get update
 $ sudo apt-get upgrade
 $ sudo apt-get install python3-pip
-$ pip install empy
-$ sudo pip install -U catkin_pkg
+$ pip3 install empy
+$ sudo pip3 install -U catkin_pkg
 ```
 create a ctakin workspace(this workspace will use pyhton3 as the default python version)
 ```
