@@ -14,6 +14,12 @@ $ update_rosbots_git_repos
 
 $ initialize_rosbots_image
 ```
+download catkin python 3 libraries
+```
+$ sudo apt-get install python3-pip
+$ pip install empy
+$ sudo pip install -U catkin_pkg
+```
 create a ctakin workspace(this workspace will use pyhton3 as the default python version)
 ```
 $ mkdir -p ~/catkin_ws/src
