@@ -26,3 +26,4 @@ catkin_make
 catkin_make
 catkin_make install
 source devel/setup.sh
+cd s
