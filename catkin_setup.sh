@@ -12,7 +12,6 @@ catkin_make -DPYTHON_EXECUTABLE=/usr/bin/python3
 cd
 mv ~/Picatkin_setup1/rosserial ~/catkin_ws/src
 mv ~/Picatkin_setup1/common_msgs ~/catkin_ws/src
-rm -r ~/Picatkin_setup1
 cd ~/catkin_ws
 catkin_make
 catkin_make
