@@ -19,4 +19,7 @@ catkin_make
 catkin_make
 catkin_make install
 source devel/setup.sh
-cd s
+cd src/rosserial/rosserial_python/nodes
+chmod +x serial_node.py
+cd ~/catkin_ws
+
