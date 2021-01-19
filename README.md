@@ -1,3 +1,5 @@
+# Demo mapping my room
+[![Watch the video](https://img.youtube.com/vi/fRMxI-7EaYo/sddefault.jpg)](https://youtu.be/fRMxI-7EaYo)
 # Setup guide
 
 1. download raspberrypi ros image from:https://goo.gl/forms/d1Qa97xm8NhkLTR52 (you'll have to fill out a form to get the image)
